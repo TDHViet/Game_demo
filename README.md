@@ -2,25 +2,48 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+## 🎮 Introduce about the project
+This is the project I did for the entrance test of the smilegate 2025 internship for the frontend engineer intern position.
 
-Make sure to install dependencies:
+## 🔧 About the Technology
+
+- **Framework:** Built with [Nuxt 3](https://nuxt.com), a powerful full-stack framework based on Vue 3.
+- **UI Library:** Utilizes [Tailwind CSS](https://tailwindcss.com) for utility-first, responsive, and customizable styling.
+- **Package Manager:** Managed using [Bun](https://bun.sh) for fast dependency installation and execution.
+- **Linter:** Code formatting and linting are enforced with [ESLint](https://eslint.org).
+- **Backend Engine:** Uses Nuxt 3 Server Engine (Nitro) for server-side logic and API routes.
+- **Database:** Connected to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for scalable cloud-based data storage.
+
+---
+
+## 🌐 Web Application Features
+
+### 📄 Game List Page
+
+- **Search and Filter:** Search games by keyword or filter by category.
+- **Game Table:** Displays a paginated list of games in a table format.
+- **Edit Functionality:** Users can edit individual game entries.
+- **Game Registration:** Allows users to register new games.
+- **Bulk Deletion:** Support for selecting and deleting multiple games at once.
+
+### 📝 Game Registration Page
+
+- **Create and Update:** Users can create or update game information.
+- **Multilingual Support:** Supports three languages: English (EN), Korean (KO), and Japanese (JA). Users can dynamically add or remove languages.
+- **Input Validation:** Validates input fields based on custom-defined formats.
+
+---
+
+## 🚀 How to Run the Project
+
+1. **Clone the repository:**
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+git clone <your_repository_url>
+cd <project_folder>
 ```
 
-## Environment Configuration
+2. **Set up environment variables:**
 
 Create a `.env` file in the root directory with the following variables:
 
@@ -28,6 +51,28 @@ Create a `.env` file in the root directory with the following variables:
 # MongoDB Configuration
 MONGODB_URI=<Your_MongoDB_Atlas_connection_string>
 ```
+
+
+
+3. **Install dependencies:**
+
+Make sure to install dependencies:
+
+```bash
+# bun
+bun install
+```
+
+4. **Start the development server:**
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# bun
+bun run dev
+```
+
+---
 
 ### MongoDB Setup
 
@@ -39,38 +84,11 @@ MONGODB_URI=<Your_MongoDB_Atlas_connection_string>
 2. **Environment Variables**: Make sure to set the required environment variable:
    - `MONGODB_URI`: Your MongoDB Atlas connection string
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
 ## Production
 
 Build the application for production:
 
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
 # bun
 bun run build
 ```
@@ -78,15 +96,6 @@ bun run build
 Locally preview production build:
 
 ```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
 # bun
 bun run preview
 ```
@@ -140,15 +149,3 @@ bun run format
 ### VS Code Integration
 
 The project includes VS Code settings for automatic formatting and linting on save. Make sure you have the ESLint and Prettier extensions installed in VS Code.
-
-## Database Features
-
-- **MongoDB Integration**: Full CRUD operations for games
-- **Environment Variables**: Secure configuration management
-- **Error Handling**: Comprehensive error handling and logging
-- **Pagination**: Built-in pagination support
-- **Search**: Full-text search across game titles, descriptions, and categories
-- **Filtering**: Category-based filtering
-- **Sorting**: Configurable sorting options
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
