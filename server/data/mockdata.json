@@ -1,0 +1,542 @@
+[
+    {
+      "id": "GOD_OF_WAR",
+      "category": "ACTION",
+      "name": [
+        {
+          "language": "EN",
+          "value": "God of War"
+        },
+        {
+          "language": "KO",
+          "value": "갓 오브 워"
+        },
+        {
+          "language": "JA",
+          "value": "ゴッド・オブ・ウォー"
+        }
+      ]
+    },
+    {
+      "id": "HORIZON_ZERO_DAWN",
+      "category": "RPG",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Horizon Zero Dawn"
+        },
+        {
+          "language": "KO",
+          "value": "호라이즌 제로 던"
+        },
+        {
+          "language": "JA",
+          "value": "ホライゾン ゼロ ドーン"
+        }
+      ]
+    },
+    {
+      "id": "THE_LAST_OF_US",
+      "category": "SURVIVAL",
+      "name": [
+        {
+          "language": "EN",
+          "value": "The Last of Us"
+        },
+        {
+          "language": "KO",
+          "value": "라스트 오브 어스"
+        },
+        {
+          "language": "JA",
+          "value": "ザ・ラスト・オブ・アス"
+        }
+      ]
+    },
+    {
+      "id": "SPIDER_MAN",
+      "category": "ACTION",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Spider-Man"
+        },
+        {
+          "language": "KO",
+          "value": "스파이더맨"
+        },
+        {
+          "language": "JA",
+          "value": "スパイダーマン"
+        }
+      ]
+    },
+    {
+      "id": "FINAL_FANTASY_VII",
+      "category": "RPG",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Final Fantasy VII"
+        },
+        {
+          "language": "KO",
+          "value": "파이널 판타지 VII"
+        },
+        {
+          "language": "JA",
+          "value": "ファイナル ファンタジーVII"
+        }
+      ]
+    },
+    {
+      "id": "MINECRAFT",
+      "category": "CREATIVE",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Minecraft"
+        },
+        {
+          "language": "KO",
+          "value": "마인크래프트"
+        },
+        {
+          "language": "JA",
+          "value": "マインクラフト"
+        }
+      ]
+    },
+    {
+      "id": "FORTNITE",
+      "category": "BATTLE_ROYALE",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Fortnite"
+        },
+        {
+          "language": "KO",
+          "value": "포트나이트"
+        },
+        {
+          "language": "JA",
+          "value": "フォートナイト"
+        }
+      ]
+    },
+    {
+      "id": "OVERWATCH",
+      "category": "FPS",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Overwatch"
+        },
+        {
+          "language": "KO",
+          "value": "오버워치"
+        },
+        {
+          "language": "JA",
+          "value": "オーバーウォッチ"
+        }
+      ]
+    },
+    {
+      "id": "CALL_OF_DUTY",
+      "category": "FPS",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Call of Duty"
+        },
+        {
+          "language": "KO",
+          "value": "콜 오브 듀티"
+        },
+        {
+          "language": "JA",
+          "value": "コール オブ デューティ"
+        }
+      ]
+    },
+    {
+      "id": "ASSASSINS_CREED",
+      "category": "ADVENTURE",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Assassin's Creed"
+        },
+        {
+          "language": "KO",
+          "value": "어쌔신 크리드"
+        },
+        {
+          "language": "JA",
+          "value": "アサシン クリード"
+        }
+      ]
+    },
+    {
+      "id": "RED_DEAD_REDEMPTION_2",
+      "category": "ADVENTURE",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Red Dead Redemption 2"
+        },
+        {
+          "language": "KO",
+          "value": "레드 데드 리뎀션 2"
+        },
+        {
+          "language": "JA",
+          "value": "レッド デッド リデンプション2"
+        }
+      ]
+    },
+    {
+      "id": "ZELDA_BOTW",
+      "category": "ADVENTURE",
+      "name": [
+        {
+          "language": "EN",
+          "value": "The Legend of Zelda: Breath of the Wild"
+        },
+        {
+          "language": "KO",
+          "value": "젤다의 전설: 브레스 오브 더 와일드"
+        },
+        {
+          "language": "JA",
+          "value": "ゼルダの伝説 ブレス オブ ザ ワイルド"
+        }
+      ]
+    },
+    {
+      "id": "SUPER_MARIO_ODYSSEY",
+      "category": "PLATFORMER",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Super Mario Odyssey"
+        },
+        {
+          "language": "KO",
+          "value": "슈퍼 마리오 오디세이"
+        },
+        {
+          "language": "JA",
+          "value": "スーパーマリオ オデシス"
+        }
+      ]
+    },
+    {
+      "id": "DOOM",
+      "category": "FPS",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Doom"
+        },
+        {
+          "language": "KO",
+          "value": "둠"
+        },
+        {
+          "language": "JA",
+          "value": "ドゥーム"
+        }
+      ]
+    },
+    {
+      "id": "CYBERPUNK_2077",
+      "category": "RPG",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Cyberpunk 2077"
+        },
+        {
+          "language": "KO",
+          "value": "사이버펑크 2077"
+        },
+        {
+          "language": "JA",
+          "value": "サイバーパンク2077"
+        }
+      ]
+    },
+    {
+      "id": "THE_WITCHER_3",
+      "category": "RPG",
+      "name": [
+        {
+          "language": "EN",
+          "value": "The Witcher 3: Wild Hunt"
+        },
+        {
+          "language": "KO",
+          "value": "더 위쳐 3: 와일드 헌트"
+        },
+        {
+          "language": "JA",
+          "value": "ザ・ウィッチャー3 ウィルドハント"
+        }
+      ]
+    },
+    {
+      "id": "HALO_INFINITE",
+      "category": "FPS",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Halo Infinite"
+        },
+        {
+          "language": "KO",
+          "value": "헤일로 인피니트"
+        },
+        {
+          "language": "JA",
+          "value": "ハロー インフィニット"
+        }
+      ]
+    },
+    {
+      "id": "BATTLEFIELD_2042",
+      "category": "FPS",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Battlefield 2042"
+        },
+        {
+          "language": "KO",
+          "value": "배틀필드 2042"
+        },
+        {
+          "language": "JA",
+          "value": "バトルフィールド 2042"
+        }
+      ]
+    },
+    {
+      "id": "FIFA_22",
+      "category": "SPORTS",
+      "name": [
+        {
+          "language": "EN",
+          "value": "FIFA 22"
+        },
+        {
+          "language": "KO",
+          "value": "피파 22"
+        },
+        {
+          "language": "JA",
+          "value": "フィファ 22"
+        }
+      ]
+    },
+    {
+      "id": "NBA_2K21",
+      "category": "SPORTS",
+      "name": [
+        {
+          "language": "EN",
+          "value": "NBA 2K21"
+        },
+        {
+          "language": "KO",
+          "value": "NBA 2K21"
+        },
+        {
+          "language": "JA",
+          "value": "ナショナル バスケ 2K21"
+        }
+      ]
+    },
+    {
+      "id": "MARIO_KART_8",
+      "category": "RACING",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Mario Kart 8 Deluxe"
+        },
+        {
+          "language": "KO",
+          "value": "마리오 카트 8 디럭스"
+        },
+        {
+          "language": "JA",
+          "value": "マリオカート8 デラックス"
+        }
+      ]
+    },
+    {
+      "id": "STARDWART_VALLEY",
+      "category": "SIMULATION",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Stardew Valley"
+        },
+        {
+          "language": "KO",
+          "value": "스타듀 밸리"
+        },
+        {
+          "language": "JA",
+          "value": "スターディバリー"
+        }
+      ]
+    },
+    {
+      "id": "ANIMAL_CROSSING",
+      "category": "SIMULATION",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Animal Crossing: New Horizons"
+        },
+        {
+          "language": "KO",
+          "value": "동물의 숲: 뉴 호라이즌스"
+        },
+        {
+          "language": "JA",
+          "value": "アニマルクロス ニューホライズン"
+        }
+      ]
+    },
+    {
+      "id": "GTA_V",
+      "category": "ACTION",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Grand Theft Auto V"
+        },
+        {
+          "language": "KO",
+          "value": "그랜드 테프트 오토 V"
+        },
+        {
+          "language": "JA",
+          "value": "グランド セフト オート V"
+        }
+      ]
+    },
+    {
+      "id": "ARK_SURVIVAL",
+      "category": "SURVIVAL",
+      "name": [
+        {
+          "language": "EN",
+          "value": "ARK: Survival Evolved"
+        },
+        {
+          "language": "KO",
+          "value": "아크: 서바이벌 이볼브드"
+        },
+        {
+          "language": "JA",
+          "value": "アーク: サバイバル エボルブド"
+        }
+      ]
+    },
+    {
+      "id": "DEATH_STRANDING",
+      "category": "ADVENTURE",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Death Stranding"
+        },
+        {
+          "language": "KO",
+          "value": "데스 스트랜딩"
+        },
+        {
+          "language": "JA",
+          "value": "デス ストランディング"
+        }
+      ]
+    },
+    {
+      "id": "GHOST_OF_TSUSHIMA",
+      "category": "ADVENTURE",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Ghost of Tsushima"
+        },
+        {
+          "language": "KO",
+          "value": "고스트 오브 쓰시마"
+        },
+        {
+          "language": "JA",
+          "value": "ゴースト オブ ツシマ"
+        }
+      ]
+    },
+    {
+      "id": "SEKIRO",
+      "category": "ACTION",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Sekiro: Shadows Die Twice"
+        },
+        {
+          "language": "KO",
+          "value": "세키로: 섀도우 다이 트와이스"
+        },
+        {
+          "language": "JA",
+          "value": "隻狼: シャドウズ ダイ トゥワイス"
+        }
+      ]
+    },
+    {
+      "id": "DARK_SOULS_III",
+      "category": "RPG",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Dark Souls III"
+        },
+        {
+          "language": "KO",
+          "value": "다크 소울 III"
+        },
+        {
+          "language": "JA",
+          "value": "ダークソウル III"
+        }
+      ]
+    },
+    {
+      "id": "BLOODBORNE",
+      "category": "RPG",
+      "name": [
+        {
+          "language": "EN",
+          "value": "Bloodborne"
+        },
+        {
+          "language": "KO",
+          "value": "블러드본"
+        },
+        {
+          "language": "JA",
+          "value": "ブラッドボーン"
+        }
+      ]
+    }
+  ]
