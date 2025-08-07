@@ -5,6 +5,8 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 ## 🎮 Introduce about the project
 This is the project I did for the entrance test of the smilegate 2025 internship for the frontend engineer intern position.
 
+Live Demo: https://game-demo-ruddy.vercel.app/
+
 ## 🔧 About the Technology
 
 - **Framework:** Built with [Nuxt 3](https://nuxt.com), a powerful full-stack framework based on Vue 3.
